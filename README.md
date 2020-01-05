@@ -1,4 +1,4 @@
- The application was developed as part of the course CS/IS C314, Software Development for Portable Devices at BITS Pilani, Goa Campus. It is not maintained anymore. 
+ The application was developed as part of the Android developemnt course in BJTU, it is the Final project for a restaurant bases odering system
 
 Android App - Restaurant Menu 
 ==============================
